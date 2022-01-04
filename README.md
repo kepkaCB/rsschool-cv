@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kepkaCB.github.io/rsschool-cv/cv
