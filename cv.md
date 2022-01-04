@@ -9,6 +9,7 @@
 ****
 ## About me
 I’m 25 years old and I try to change my life by learning new things. So here I am. I’m just starting to study, but I’ll do my best for being a front-end developer. 
+
 **My strengths:**
 * Open to new things
 * Getting well with people
@@ -28,9 +29,12 @@ I’m 25 years old and I try to change my life by learning new things. So here I
 ****
 ## Education
 **University:** BSU, Faculty of law, Jurisprudence
+
 **Courses:** [RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)](https://rs.school/js/)
 ****
 ## Languages:
 English – Intermediate
+
 Russian – Native
+
 Belarussian – Basic
